@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;               // contains all entry points and main types
-using System.Text.Json.Serialization; //contains attributes and APIs for advanced scenarios and customization specific to serialization and deserialization. 
 
 namespace JsonSerealization
 {
