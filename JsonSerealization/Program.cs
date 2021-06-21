@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Text.Json;               // contains all entry points and main types
 using System.Text.Json.Serialization; //contains attributes and APIs for advanced scenarios and customization specific to serialization and deserialization. 
 
@@ -16,11 +17,12 @@ namespace JsonSerealization
                 Summary = "Hot"
             };
 
-            // Write .NET objects as Json (Serialize)
+            // This code uses synchronous code to create Json file
+            var filename = "WeatherForecast.json";
             var jsonString = JsonSerializer.Serialize(weatherForecast);
-
-            //The json output is minified (Whitespace, indentation and new-line caracters are removed) by default
-            Console.WriteLine(jsonString);
+            File.WriteAllText(filename, jsonString);
+            
+            Console.WriteLine(File.ReadAllText(filename));
         }
     }
 }

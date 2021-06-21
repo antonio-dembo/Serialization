@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Recursos\\dotnet\\JsonSerealization\\JsonSerealization.csproj": {}
+    "D:\\Recursos\\dotnet\\Serialization\\JsonSerealization\\JsonSerealization.csproj": {}
   },
   "projects": {
-    "D:\\Recursos\\dotnet\\JsonSerealization\\JsonSerealization.csproj": {
+    "D:\\Recursos\\dotnet\\Serialization\\JsonSerealization\\JsonSerealization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Recursos\\dotnet\\JsonSerealization\\JsonSerealization.csproj",
+        "projectUniqueName": "D:\\Recursos\\dotnet\\Serialization\\JsonSerealization\\JsonSerealization.csproj",
         "projectName": "JsonSerealization",
-        "projectPath": "D:\\Recursos\\dotnet\\JsonSerealization\\JsonSerealization.csproj",
+        "projectPath": "D:\\Recursos\\dotnet\\Serialization\\JsonSerealization\\JsonSerealization.csproj",
         "packagesPath": "C:\\Users\\beboa\\.nuget\\packages\\",
-        "outputPath": "D:\\Recursos\\dotnet\\JsonSerealization\\obj\\",
+        "outputPath": "D:\\Recursos\\dotnet\\Serialization\\JsonSerealization\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CPbbwVCqijfgy7VSOcA1M+C+pQj7n0Fkio8CDCvJlWs2PrOtlXkO5z0pyDdgiEM7Lnui5xnBFFuGLagoZ4d/TA==",
+  "dgSpecHash": "KAYF8LCQQAuHLxQ/N/VY4dYf0aImHFqGdm4ZZa1NFF3YKFeyonUgHeKe8wODRWpjLTyMgfFBSRH015hIw2ehEw==",
   "success": true,
-  "projectFilePath": "D:\\Recursos\\dotnet\\JsonSerealization\\JsonSerealization.csproj",
+  "projectFilePath": "D:\\Recursos\\dotnet\\Serialization\\JsonSerealization\\JsonSerealization.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
